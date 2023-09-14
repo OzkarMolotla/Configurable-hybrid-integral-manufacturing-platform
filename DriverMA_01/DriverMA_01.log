@@ -1,0 +1,13 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo20 -N"C:\Users\molot\Documents\Doctorado\5.Semestre2023-1\Microstepping\MikroC @ dsPIC\DriverMA_01\DriverMA_01.mcpds" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Uses\" -SP"C:\Users\molot\Documents\Doctorado\5.Semestre2023-1\Microstepping\MikroC @ dsPIC\DriverMA_01\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Uses\" -IP"C:\Users\molot\Documents\Doctorado\5.Semestre2023-1\Microstepping\MikroC @ dsPIC\DriverMA_01\" "DriverMA_01.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_ADC_1_p24FJ_p30.mcl" "__Lib_UART_12_p30.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	DriverMA_01.c
+hint: 0	1004	interrupt handler (interrupt_T1 at 0x001A)	DriverMA_01.c
+diagnostics: 160	123	Compiled Successfully	DriverMA_01.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 116   Dynamic RAM (bytes): 1930	Static RAM (bytes): 116   Dynamic RAM (bytes): 1930
+hint: 0	1144	Used ROM (bytes): 8797 (27%)  Free ROM (bytes): 23971 (73%)	Used ROM (bytes): 8797 (27%)  Free ROM (bytes): 23971 (73%)
+diagnostics: 0	125	Project Linked Successfully	DriverMA_01.mcpds
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'DriverMA_01.mcpds' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 15 jun. 2023, 11:57:17	DriverMA_01.mcpds
