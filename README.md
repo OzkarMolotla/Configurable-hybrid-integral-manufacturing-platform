@@ -49,8 +49,8 @@ organizado por el tipo de programa utilizado en cada uno de los sistemas, que fo
     establecen la configuración final de parámetros de manufactura y en Mastercam se genera el diseño de la 
     pieza a desarrollar. 
 
-![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
 ![DiseñoMA_01](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/a98f0792-5311-4012-82d1-7c8b5fd0ed0f)
+![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
 
 7.- CIRCULO10X10_00.src, Programa de manufactura sustractiva generado a través del software Robotmaster, donde se
     establecen la configuración final de parámetros de manufactura y en Mastercam se genera el diseño de la pieza
