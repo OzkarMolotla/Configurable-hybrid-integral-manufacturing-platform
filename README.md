@@ -11,7 +11,7 @@ Recursos y documentación extra para el proyecto “Configurable  hybrid integra
 
 ![SEE_MA](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/75116db0-5443-4c7d-8031-19c97d6c63f5)
 
-2.-       
+2.-ESP8862_MA 
 
 
 ![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
