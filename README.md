@@ -11,9 +11,9 @@ Recursos y documentación extra para el proyecto “Configurable  hybrid integra
 
 ![SEE_MA](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/75116db0-5443-4c7d-8031-19c97d6c63f5)
 
-2.-ESP8862_MA, programa implementado en el IDE de arduino
-      i.- ESP8862_MA programa cargado en el ESP8266 para el modulo aditivo.
-      ii.- 
+2.-ESP8862_MA y ESP8862_MS, programas implementados en el IDE de arduino
+      i.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación con dsPIC como con la pigina web para el modulo aditivo.
+      ii.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación con dsPIC como con la pigina web para el modulo sustractivo. 
 
 
 ![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
