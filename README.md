@@ -18,9 +18,16 @@ Recursos y documentación extra para el proyecto “Configurable  hybrid integra
       ii.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación con dsPIC como con la pigina web para el modulo sustractivo. 
 
 
-3.- ESP8266MA y ESP8266MS, programas implementados en el Python, HTML y PHP.
+3.- ESP8266MA, programas implementados en el Python, HTML y PHP, para modulo aditivo.
 
-       i.- 
+     i.- MASH_02 programa desarrollado en Python, donde se generea la interfaz de usuario, se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
+     i.- indexMA.php programa desarrollado en HTML y PHP, donde se genera la pagina web dinamica. 
+
+4.- ESP8266MS, programas implementados en el Python, HTML y PHP, para el modulo sustractivo.
+
+     i.- MASH_02 programa desarrollado en Python, donde se generea la interfaz de usuario, se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
+     i.- indexMA.php programa desarrollado en HTML y PHP, donde se genera la pagina web dinamica.      
+     
 
 ![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
 ![DiseñoMA_01](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/a98f0792-5311-4012-82d1-7c8b5fd0ed0f)
