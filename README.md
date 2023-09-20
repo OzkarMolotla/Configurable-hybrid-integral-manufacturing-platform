@@ -16,18 +16,22 @@ organizado por el tipo de programa utilizado en cada uno de los sistemas, que fo
 
 2.-ESP8266_MA y ESP8266_MS, programas implementados en el IDE de arduino
 
-      i.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación con dsPIC como con la pigina web para el modulo aditivo.
-      ii.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación con dsPIC como con la pigina web para el modulo sustractivo. 
+      i.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación 
+          con dsPIC como con la pigina web para el modulo aditivo.
+      ii.- ESP8862_MA programa cargado en el ESP8266 para establecer tanto la comunicación 
+           con dsPIC como con la pigina web para el modulo sustractivo. 
 
 
 3.- ESP8266MA, programas implementados en el Python, HTML y PHP, para modulo aditivo.
 
-     i.- MASH_02 programa desarrollado en Python, donde se generea la interfaz de usuario, se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
+     i.- MASH_02 programa desarrollado en Python, donde se generea la interfaz de usuario,
+         se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
      i.- indexMA.php programa desarrollado en HTML y PHP, donde se genera la pagina web dinamica. 
 
 4.- ESP8266MS, programas implementados en el Python, HTML y PHP, para el modulo sustractivo.
 
-     i.- MASH programa desarrollado en Python, donde se generea la interfaz de usuario, se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
+     i.- MASH programa desarrollado en Python, donde se generea la interfaz de usuario, 
+         se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
      i.- index.php programa desarrollado en HTML y PHP, donde se genera la pagina web dinamica.      
      
 
