@@ -45,17 +45,16 @@ organizado por el tipo de programa utilizado en cada uno de los sistemas, que fo
     3.- Hacer el llamado al programa de manufactura aditiva 
     4.- Terminar los procesos de manufactura 
 
-6.- Programa de manufactura sustractiva generado a través del software Robotmaster, donde se
-    establecen la configuración final de parámetros de manufactura y en Mastercam se genera 
-    el diseño de la pieza a desarrollar. 
-
-7.- Programa de manufactura sustractiva generado a través del software Robotmaster, donde se
-    establecen la configuración final de parámetros de manufactura y en Mastercam se genera 
-    el diseño de la pieza a desarrollar.
-    
-     
+6.- CIRCULO10X10_00.src, Programa de manufactura aditiva generado a través del software Robotmaster, donde se
+    establecen la configuración final de parámetros de manufactura y en Mastercam se genera el diseño de la 
+    pieza a desarrollar. 
 
 ![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
 ![DiseñoMA_01](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/a98f0792-5311-4012-82d1-7c8b5fd0ed0f)
+
+7.- CIRCULO10X10_00.src, Programa de manufactura sustractiva generado a través del software Robotmaster, donde se
+    establecen la configuración final de parámetros de manufactura y en Mastercam se genera el diseño de la pieza
+    a desarrollar.
+    
 ![PruebaConcepto_10](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/3c09c28b-2f9c-4116-b6b4-c728fb69ab29)
 
