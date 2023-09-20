@@ -8,10 +8,13 @@ Recursos y documentación extra para el proyecto “Configurable  hybrid integra
 1.-DriverMA_01 y DriverMs_01, en MicroC pro for PIC:
       i.- DriverMA_01.mcpds programa cargado en el dsPIc para el modulo aditivo.
       ii.- Prueba_00.mcpds  programa cargado en el dsPIc para el modulo sustractivo.
+
+![SEE_MA](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/75116db0-5443-4c7d-8031-19c97d6c63f5)
+
 2.-       
 
 
 ![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
 ![DiseñoMA_01](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/a98f0792-5311-4012-82d1-7c8b5fd0ed0f)
 ![PruebaConcepto_10](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/3c09c28b-2f9c-4116-b6b4-c728fb69ab29)
-![SEE_MA](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/75116db0-5443-4c7d-8031-19c97d6c63f5)
+
