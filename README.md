@@ -3,7 +3,9 @@
  
 ![DiagramaSis_04](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/7da5e037-9c11-45d6-b842-1670383b37c3)
 
-Recursos y documentación extra para el proyecto “Configurable  hybrid integral manufacturing platform: subtractive-additive process with industrial robot arm, proof of concept results”. El código esta organizado por el tipo de programa utilizado en cada uno de los sistemas, que forman parte de la plataforma.
+Recursos y documentación extra para el proyecto “Configurable  hybrid integral manufacturing platform: 
+subtractive-additive process with industrial robot arm, proof of concept results”. El código esta 
+organizado por el tipo de programa utilizado en cada uno de los sistemas, que forman parte de la plataforma.
 
 1.-DriverMA_01 y DriverMs_01, en MicroC pro for PIC:
 
@@ -25,8 +27,8 @@ Recursos y documentación extra para el proyecto “Configurable  hybrid integra
 
 4.- ESP8266MS, programas implementados en el Python, HTML y PHP, para el modulo sustractivo.
 
-     i.- MASH_02 programa desarrollado en Python, donde se generea la interfaz de usuario, se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
-     i.- indexMA.php programa desarrollado en HTML y PHP, donde se genera la pagina web dinamica.      
+     i.- MASH programa desarrollado en Python, donde se generea la interfaz de usuario, se estable la comunicación con la pagina web y se genera la intercoxión con el robot KUKA. 
+     i.- index.php programa desarrollado en HTML y PHP, donde se genera la pagina web dinamica.      
      
 
 ![PruebaConcepto_05](https://github.com/OzkarMolotla/Configurable-hybrid-integral-manufacturing-platform/assets/145061621/f66030af-1156-4e62-94fd-032c5cd69603)
